@@ -1,4 +1,4 @@
-Design a 4-way set associative cache with 1024 KB size and 32-bit address.<br>
+Designed a 4-way set associative cache with 1024 KB size and 32-bit address.<br>
 <br>
 Tasks:<br>
 - Analyze hit/miss rates using provided memory traces.<br>
